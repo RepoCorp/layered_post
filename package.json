@@ -1,0 +1,31 @@
+{
+  "name": "react-one-page-boilerplate",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "@types/node": "^20.4.4",
+    "@types/react": "^18.2.16",
+    "@types/react-dom": "^18.2.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^5.0.1",
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^12.1.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
